@@ -435,6 +435,7 @@
   "Key 3"                            = "http://icy-e-bl-01-gos.sharp-stream.com/key3.mp3"
   "KFM 99.9"                         = "http://radio.kfm.co.kr:8000/stream/1/"
   "KFM Radio"                        = "http://cty.gocaster.net:8000/kfm_web"
+  "KickFM"                           = "http://live.kickfm.eu:8000/;stream.mp3"
   "Kiss 98.5"                        = "http://54.166.198.212/entercom-wksefmaac-64"
   "Kiss FM Melbourne"                = "http://cc.net2streams.com:8565/kissfm.mp3"
   "Kiss FM Ukraine"                  = "http://online-kissfm.tavrmedia.ua/KissFM"
